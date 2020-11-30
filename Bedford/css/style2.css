@@ -1,0 +1,383 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:-apple-system,BlinkMacSystemFont,Roboto,Open Sans,Helvetica Neue,"Noto Sans Armenian","Noto Sans Bengali","Noto Sans Cherokee","Noto Sans Devanagari","Noto Sans Ethiopic","Noto Sans Georgian","Noto Sans Hebrew","Noto Sans Kannada","Noto Sans Khmer","Noto Sans Lao","Noto Sans Osmanya","Noto Sans Tamil","Noto Sans Telugu","Noto Sans Thai",sans-serif;
+}
+.container{
+    width: 100%;
+	position: absolute;
+    height: 650px;
+    background: url("../image/image-asset1.jpeg") center no-repeat;
+    background-size: cover;
+}
+.bedford{
+	width: 140px;
+	margin-left: 20px;
+}
+
+ .take_action{
+    position: absolute;
+    border-radius: 25px;
+    width: 147px;
+    height: 43px;
+	margin-left: 1200px;
+	margin-top: 30px;
+    color: #fff;
+    border: 3px solid white;
+    background-color: #00000000;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.read_me {
+	font-size: 14px;
+ 	line-height: 26px;
+ 	font-weight: 600;
+ 	text-align: center;
+ 	margin-left:1070px;
+ 	color:white;
+ 	margin-top: -28px;
+ 	cursor: pointer;
+}
+.news{
+	font-size: 14px;
+ 	line-height: 26px;
+ 	font-weight: 600;
+ 	text-align: center;
+ 	margin-left:900px;
+ 	color:white;
+ 	margin-top: -37px;
+ 	cursor: pointer;
+}
+.about{
+	font-size: 14px;
+ 	line-height: 26px;
+ 	font-weight: 600;
+ 	text-align: center;
+ 	margin-left:730px;
+ 	color:white;
+ 	margin-top: -37px;
+ 	cursor: pointer;
+}
+.home{
+	font-size: 14px;
+ 	line-height: 26px;
+ 	font-weight: 600;
+ 	text-align: center;
+ 	margin-left:560px;
+ 	color:white;
+ 	margin-top: -37px;
+ 	cursor: pointer;
+}
+.sustainability{
+    font-size: 18px;
+    font-family: adobe-garamond-pro;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 24px;
+    letter-spacing: 1px;
+    color: #fff;
+    text-align: center;
+    margin-top: 170px;
+    margin-right: 20px;
+}
+ .start {  
+    font-weight: 400;
+    font-size: 48px;
+    font-weight: 700;
+    font-size: 68px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    line-height: 1em;
+    color: #fff;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 17px;
+}
+.learn{
+	position: absolute;
+	background-color: #36b3a8;
+	border-radius: 25px;
+	width: 170px;
+	height: 45px;
+	border: 0px solid #00000000;
+	color: #fff;
+	margin-top: -45px;
+	text-align: center;
+	margin-left: 680px;
+	font-weight: 600;
+	font-size: 16px;
+	cursor: pointer;
+}
+.kopir{
+   position: relative;
+    width: 460px;
+    height: 350px;
+    margin-top:1000px;
+    margin-left:320px; 
+}
+.text_1{
+	position: absolute;
+    font-size: 29px;
+    font-family: adobe-garamond-pro;
+    font-weight: 400;
+    margin-left: 400px;
+    margin-top: -600px;
+    color: #333333;
+}
+.text_2_1{
+	position: absolute;
+    font-size: 17px;
+    font-family: adobe-garamond-pro;
+    font-weight: 400;
+    color: #333333;
+    width: 625px;
+    text-align: center;
+    margin-left: 455px;
+    margin-top: -530px;
+    color: rgba(26,26,26,.7);
+}
+.text_2_2{
+	position: absolute;
+    font-size: 17px;
+    font-family: adobe-garamond-pro;
+    font-weight: 400;
+    color: #333333;
+    width: 625px;
+    text-align: center;
+    margin-left: 455px;
+    margin-top: -500px;
+    color: rgba(26,26,26,.7);
+}
+.text_2_3{
+	position: absolute;
+    font-size: 17px;
+    font-family: adobe-garamond-pro;
+    font-weight: 400;
+    color: #333333;
+    width: 625px;
+    text-align: center;
+    margin-left: 458px;
+    margin-top: -470px;
+    color: rgba(26,26,26,.7);
+}
+.text_3{
+    position: absolute;
+    font-family: adobe-garamond-pro;
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 630px;
+    color: rgba(26,26,26,.7);
+    margin-top: -430px;
+}
+.by {
+    position: absolute;
+    font-family: adobe-garamond-pro;
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 820px;
+    color: #3d9991;
+    margin-top: -430px;
+    cursor: pointer;
+}
+.about2{
+    text-align: center;
+    font-size: 13px;
+    color: #ccc;
+    margin-left: 450px;
+    margin-top: -250px;
+}
+.text4_1{
+    position: absolute;
+    font-family: adobe-garamond-pro;
+    font-style: italic;
+    font-size: 22px;
+    text-align: center;
+    margin-left: 855px;
+    color: rgba(26,26,26,.7);
+    margin-top: 10px;
+}
+.text4_2{
+    position: absolute;
+    font-family: adobe-garamond-pro;
+    font-style: italic;
+    font-size: 22px;
+    text-align: center;
+    margin-left: 820px;
+    color: rgba(26,26,26,.7);
+    margin-top: 40px;
+}
+.text4_3{
+    position: absolute;
+    font-family: adobe-garamond-pro;
+    font-style: italic;
+    font-size: 22px;
+    text-align: center;
+    margin-left: 880px;
+    color: rgba(26,26,26,.7);
+    margin-top: 70px;
+}
+.learn2{
+    position: absolute;
+    background-color: #36b3a8;
+    border-radius: 25px;
+    width: 150px;
+    height: 38px;
+    border: 0px solid #00000000;
+    color: #fff;
+    text-align: center;
+    margin-left: 920px;
+    font-weight: 320;
+    font-size: 13px;
+    margin-top: 140px;
+    cursor: pointer;
+}
+.kyz {
+    position: relative;
+    width: 460px;
+    height: 350px;
+    margin-top: 350px;
+    margin-left: 800px;
+}
+.take_action2{
+    text-align: center;
+    color: #ccc;
+    margin-top: -300px;
+    margin-left: -500px;
+    font-size: 17px;
+    
+}
+.text5_1{
+    position: absolute;
+    font-family: adobe-garamond-pro;
+    font-style: italic;
+    margin-left: 350px;
+    font-size: 22px;
+    color: rgba(26,26,26,.7);
+}
+.text5_2{
+    position: absolute;
+    font-family: adobe-garamond-pro;
+    font-style: italic;
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size: 22px;
+    color: rgba(26,26,26,.7);
+}
+.text5_3{
+    position: absolute;
+    font-family: adobe-garamond-pro;
+    font-style: italic;
+    margin-left: 430px;
+    margin-top: 80px;
+    font-size: 22px;
+    color: rgba(26,26,26,.7);
+}
+.find{
+    position: absolute;
+    background-color: #36b3a8;
+    border-radius: 25px;
+    width: 158px;
+    height: 39px;
+    border: 0px solid #00000000;
+    color: #fff;
+    text-align: center;
+    margin-left: 440px;
+    font-weight: 320;
+    font-size: 13px;
+    margin-top: 140px;
+    cursor: pointer;
+}
+.footer{
+	position: absolute;
+	height: 320px;
+	width: 1518px;
+	background-color: #f7f7f7;
+	margin-top: 400px;
+}
+.subscribe{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 28px;
+}
+.text6{
+    position: absolute;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 590px;
+    margin-top: -10px;
+    font-family: adobe-garamond-pro;
+    font-style: italic;
+}
+.email{
+    position: absolute;
+    width: 235px;
+    height: 50px;
+    background: #fff;
+    border: 1px solid rgba(0,0,0,.12);
+    font-family: adobe-garamond-pro;
+    font-size: 15px;
+    margin-left: 535px;
+    margin-top: 40px;
+    padding-left: 10px;
+}  
+.sign{
+    position: absolute;
+    background-color: #262626;
+    color: #fff;
+    height: 50px;
+    width: 140px;
+    margin-top: 40px;
+    margin-left: 790px;
+    cursor: pointer;
+}
+.foot{
+	position: absolute;
+	width: 1518px;
+	margin-top: 700px;
+    height: 200px;
+    background-color: #1f1f1f;
+    
+}
+.text7{
+    position: absolute;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 410px;
+    color: #d0d0d0;
+    
+}
+.text8{
+    position: absolute;
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 640px;
+    font-family: adobe-garamond-pro;
+    font-style: italic;
+    font-size: 16px;
+    color: grey;
+}
+.text8_1{
+    position: absolute;
+    text-align: center;
+    margin-top: 120px;
+    margin-left:720px;
+    font-family: adobe-garamond-pro;
+    font-style: italic;
+    font-size: 16px;
+    color: grey;
+    cursor: pointer;
+}
+
+
+
+
+
+
+.form-data{
+    width: 100%;
+    max-width: 35rem;
+    margin-top: 3rem;
+}

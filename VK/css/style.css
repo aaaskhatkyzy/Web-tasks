@@ -1,0 +1,353 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:-apple-system,BlinkMacSystemFont,Roboto,Open Sans,Helvetica Neue,"Noto Sans Armenian","Noto Sans Bengali","Noto Sans Cherokee","Noto Sans Devanagari","Noto Sans Ethiopic","Noto Sans Georgian","Noto Sans Hebrew","Noto Sans Kannada","Noto Sans Khmer","Noto Sans Lao","Noto Sans Osmanya","Noto Sans Tamil","Noto Sans Telugu","Noto Sans Thai",sans-serif;
+}
+.container{
+    width: 100%;
+}
+.header__h{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.img{
+    height: 25px;
+    width: 40px;
+    padding-top: 6px;
+    padding-left: 250px;
+
+}
+.header{
+    background-color: #4a76a8;
+    height: 40px;
+}
+.search{
+    position: relative;
+    margin-top: 6px;
+    height: 25px;
+    width: 220px;
+    border-radius: 15px;
+    border:none;
+    background-color: #224b7a;
+    padding-left: 20px;
+}
+.main__page{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.img__search{
+    position: absolute;
+    height: 15px;
+    width: 15px; 
+    margin-left: -240px;
+    margin-top: 11px;
+}
+.h3{
+    margin-top: 60px;   
+    text-align: center;
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: 700;
+    margin-right: 70px;
+}
+
+.main__page{
+    position: relative;
+}
+.text{
+    text-align: center;
+    width: 450px;
+    margin-left: 280px;
+    color: #626d76;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: -10px;
+}
+.img__phone{
+    margin-top: -320px;
+    margin-left: -50px;
+}
+
+.btn{
+   position: absolute;
+   margin-left: 400px;
+   margin-top: -320px;
+}
+.android{
+   margin-left: -13px;
+   color: #2a5885;
+   border:none;
+   line-height: 16px;
+   font-size: 13px;
+}
+.apple{
+   color: #2a5885;
+   border:none;
+   line-height: 16px;
+   font-size: 13px;
+   margin-left: 55px;
+}
+.main{
+    background-color: #edeef0;
+}
+.img__android{
+    position: absolute;
+    margin-left: -115px;
+
+}
+.img__apple{
+    position: absolute;
+    margin-left: 40px;
+}
+.all{
+    margin-left: 60px;
+    position: absolute;
+    margin-top: 30px;
+    color: #2a5885;
+    line-height: 15px;
+    font-size: 13px;
+    text-decoration: none;
+}
+.form{
+
+}
+.phone{
+    padding-left: 10px;
+    width: 240px;
+    margin-bottom: 15px;
+    height: 30px;
+    border-radius: 4px;
+    border: 1px solid grey;
+}
+.passw{
+    padding-left: 10px;
+    width: 240px;
+    height: 30px;
+    border-radius: 4px;
+    border: 1px solid grey;
+    margin-bottom: 20px;
+}
+.main__second{
+    position: relative;
+}
+.box_1{
+    margin-right: 100px;
+    margin-top: 40px;
+    border :25px solid #fff;
+    background-color: #fff;
+    border-radius: 4px;
+    position: absolute;
+    margin-left: -600px;
+}
+.log_in{
+    cursor: pointer;
+    width: 100px;
+    height: 35px;
+    background-color: #5181b8;
+    color: #fff;
+    border-radius: 4px;
+    border :none;
+}
+.forgot{
+    line-height: 20px;
+    font-size: 13px;
+    color: #2a5885;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 400;
+    
+}
+.h2{
+    font-size: 20px;
+    font-weight: 500;
+}
+.h4{
+    font-size: 12.5px;
+    color: #656565;
+    font-weight: 400;
+    margin-left: 25px;
+}
+.box_2{
+    margin-top: 250px;
+    padding-left: 45px;
+    margin-left: -600px;
+    position: absolute;
+    border :20px solid white;
+    background-color: white;
+}
+.name{
+    width: 250px;
+    margin-left: -45px;
+    margin-bottom: 15px;
+    height: 30px;
+    border-radius: 4px;
+    border:1px solid grey;
+    padding-left: 10px;
+}
+.surname{
+    width: 250px;
+    margin-left: -45px;
+    height: 30px;
+    border-radius: 4px;
+    border:1px solid grey;
+    padding-left: 10px;
+}
+.h5{
+    color: #939393;
+    margin-left: -40px;
+}
+.day{
+    padding-left: 5px;
+    color: rgb(124, 127, 130);
+    width: 65px;
+    height: 30px;
+    margin-left: -40px;
+}
+.month{
+    padding-left: 5px;
+    color: rgb(124, 127, 130);
+    width: 65px;
+    height: 30px;
+    margin-left: 10px;
+}
+.year{
+    padding-left: 5px;
+    color: rgb(124, 127, 130);
+    width: 65px;
+    height: 30px;
+    margin-left: 13px;
+}
+.h6{
+    margin-left: -40px;
+    font-size: 13px;
+    color:#939393;
+    font-weight: 500;
+}
+.form__radio{
+    margin-left: -45px;
+    margin-top: -20px;
+}
+.registration{
+    background-color: #4bb34b;
+    font-size: 14px;
+    line-height: 20px;
+    width: 260px;
+    margin-left: -40px;
+    height: 35px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border:none;
+    color: #fff;
+}
+.facebook{
+    background-color: #2474d6;
+    font-size: 14px;
+    line-height: 20px;
+    width: 260px;
+    margin-left: -40px;
+    height: 35px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border:none;
+    color: #fff;
+}
+.box_3{
+
+    margin-top: 760px;
+    margin-left: -600px;
+    border:16px solid white;
+    position: absolute;
+    background-color: white;
+    
+
+}
+.textt{
+    width: 250px;
+    text-align: center;
+    margin-left: 25px;
+    color: #9ea7b0;
+    font-size: 13px;
+    line-height: 18px;
+}
+.learn{
+   margin-left: 100px;
+   text-decoration: none;
+   color: #2a5885;
+   font-weight: 400;
+   font-size: 13px;
+   line-height: 18px;
+}
+.footer{
+    background-color: #edeef0;
+     
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+}
+.foot_b{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+}
+.footer{
+    position: relative;
+}
+.foot__h{
+    position: absolute;
+    font-size: 13px;
+    margin-left: 550px;
+
+}
+.foot__d{
+    font-size: 13px;
+    position: absolute;
+    margin-left: 910px;
+    
+}
+.vk__p{
+    margin-left: 230px;
+    color: #6989a8;
+    text-decoration: none;
+}
+.thous{
+    margin-left: 10px;
+    margin-top: 0;
+    color: #6f7985;
+}
+.ddd{
+    color: #6989a8;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.www{
+    margin-right: 20px;
+    color: #6989a8;
+    text-decoration: none;
+}
+.face {
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	margin-left: -235px;
+	margin-top: 27px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
